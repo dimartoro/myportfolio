@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myportfolio-gh/static/css/main.7e99ff55.css",
+    "main.js": "/myportfolio-gh/static/js/main.286042da.js",
+    "static/media/myphoto.jpg": "/myportfolio-gh/static/media/myphoto.dcbb5354e5147f4e3671.jpg",
+    "static/media/vinylvibes.png": "/myportfolio-gh/static/media/vinylvibes.0f7d9755bba298c0fb68.png",
+    "static/media/WhereWeDranking.png": "/myportfolio-gh/static/media/WhereWeDranking.07c9ddde9720b5364442.png",
+    "static/media/sidehustle.png": "/myportfolio-gh/static/media/sidehustle.d074aff56433cfd97262.png",
+    "static/media/EmployeeTracker.png": "/myportfolio-gh/static/media/EmployeeTracker.fbf8ee112dd2d1b96c82.png",
+    "static/media/resume.png": "/myportfolio-gh/static/media/resume.fc9cb05ef38bc60c6b74.png",
+    "static/media/Resume.docx": "/myportfolio-gh/static/media/Resume.0b4049ae32ff91119509.docx",
+    "static/media/weather.png": "/myportfolio-gh/static/media/weather.fc3d91741d90eed13793.png",
+    "static/media/notetaker.png": "/myportfolio-gh/static/media/notetaker.98769925ec94a794c643.png",
+    "static/media/scheduler.png": "/myportfolio-gh/static/media/scheduler.ced6eef27a0660d14a86.png",
+    "index.html": "/myportfolio-gh/index.html",
+    "main.7e99ff55.css.map": "/myportfolio-gh/static/css/main.7e99ff55.css.map",
+    "main.286042da.js.map": "/myportfolio-gh/static/js/main.286042da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e99ff55.css",
+    "static/js/main.286042da.js"
+  ]
+}
